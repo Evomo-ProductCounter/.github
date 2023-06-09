@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/C23-CT02">
-    <img src="https://github.com/C23-CT02/.github/blob/main/resources/evomo.png" width='400dp' alt="Logo" >
+    <img src="https://github.com/C23-CT02/.github/blob/main/resources/evomo.png" width='200dp' alt="Logo" >
   </a>
   
   <h3 align="center">Product Counter - Count Your Products Now!</h3>
