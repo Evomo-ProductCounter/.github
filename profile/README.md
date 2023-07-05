@@ -25,7 +25,7 @@ Utilizing OpenCV modules to integrate with Android Application and will make use
 
 
 # Our Team
-| Name                     | Learning Path       | Linkedin         |
-| ------------------------ | ------------------- | ---------------- |
-| David Johan Hasiholan P  | Mobile Development  | [`click here`](https://www.linkedin.com/in/davidjh-parhusip/) |
-| Dionisius Mikael Sutanto | Machine Learning    | [`click here`](https://www.linkedin.com/in/dionisius-mikael-sutanto-3b526b164/) |
+| Name                     | Linkedin         |
+| ------------------------ | ---------------- |
+| David Johan Hasiholan P  | [`click here`](https://www.linkedin.com/in/davidjh-parhusip/) |
+| Dionisius Mikael Sutanto | [`click here`](https://www.linkedin.com/in/dionisius-mikael-sutanto-3b526b164/) |
